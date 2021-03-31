@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kartikey-kawadkar24
 - 👀 I’m interested in Machine Learning, Deep Learning and Computer Vision.
 - 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to collaborate on projects done on AI.
+- 💞️ I’m looking to collaborate on projects done using AI.
 - 📫 How to reach me <kartikeyakawadkar@gmail.com>
 
 <!---
